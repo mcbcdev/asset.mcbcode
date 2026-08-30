@@ -1,0 +1,7 @@
+{
+  "folders": {
+    "blocks": { "folders": {}, "files": ["stone.png", "dirt.png"] },
+    "items": { "folders": {}, "files": ["apple.png"] }
+  },
+  "files": []
+}
